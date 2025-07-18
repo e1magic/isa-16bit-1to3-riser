@@ -1,18 +1,18 @@
 RISER:
 
-![riser](gerbers\isa_riser.jpg)
+![riser](gerbers/isa_riser.jpg)
 
 OR
 
-![riser_2](gerbers\isa_riser_con_to_mb.jpg)
+![riser_2](gerbers/isa_riser_con_to_mb.jpg)
 
 ISA CARD:
 
-![isa_card](gerbers\isa_card_top_connectors.jpg)
+![isa_card](gerbers/isa_card_top_connectors.jpg)
 
 OR
 
-![isa_card_drill](gerbers\isa_riser_card_drill_connectors.jpg)
+![isa_card_drill](gerbers/isa_riser_card_drill_connectors.jpg)
 
 
 
